@@ -1,0 +1,3 @@
+"D:\FACULTATE\Personale\Editoare\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Criptografie_Metode_Simple.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe cr CMakeFiles\Criptografie_Metode_Simple.dir/objects.a @CMakeFiles\Criptografie_Metode_Simple.dir\objects1.rsp
+C:\msys64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Criptografie_Metode_Simple.dir/objects.a -Wl,--no-whole-archive -o Criptografie_Metode_Simple.exe -Wl,--out-implib,libCriptografie_Metode_Simple.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Criptografie_Metode_Simple.dir\linklibs.rsp
